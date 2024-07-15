@@ -1,0 +1,1 @@
+A fully functional chat app with authentication and protected routing. Users can create an account and it will be stored in firebase. This app was created using React JS, firebase, vite, and tailwind CSS
